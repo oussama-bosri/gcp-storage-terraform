@@ -11,12 +11,3 @@ This Terraform project creates:
 - Terraform ≥ 1.0
 - GCP project with billing enabled
 
-## 🚀 Usage
-
-### 1. Clone & Configure
-
-Edit `terraform.tfvars`:
-
-```hcl
-project_id  = "devops-465809"
-bucket_name = "backend-app-storage-devops"
